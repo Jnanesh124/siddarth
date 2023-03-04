@@ -382,8 +382,8 @@ async def get_shortlink(link):
     if "http" == https:
         https = "https"
         link = link.replace("http", https)
-    url = f'https://omegalinks.in/api'
-    params = {'api': '766185149277536bd3b9bbf1ccc75cb97a411729',
+    url = f'http://TinyFy.in/api'
+    params = {'api': '4a667a27f8c3f5880234e9101ce53a9a3c52e5ed',
               'url': link,
               }
 
